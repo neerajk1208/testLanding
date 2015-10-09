@@ -1,0 +1,60 @@
+/*
+CSS for homepage
+*/
+
+.logo {
+	width: 150px;
+	height: 50px;
+	border: 1px solid white;
+	float: left;
+	font-size: 38px;
+	color: white;
+}
+
+.description {
+	text-align: center;
+	font-size: 25px;
+}
+
+.tabs {
+	float: right;
+	border: 1px solid black;
+}
+
+.login {
+	margin-right: 15px;
+}
+
+
+
+.firstSection {
+	background-image: url("http://www.hdwallpapers.in/walls/new_york_skyline-wide.jpg");
+	background-repeat: no-repeat;
+
+	height: 350px
+
+}
+
+.name {
+	font-size: 80px;
+	text-align: center;
+}
+
+.secondSection {
+	height: 250px;
+	background-color: white;
+}
+
+.tutorialTitle {
+	text-align: center;
+	font-size: 45px;
+}
+
+.scroll {
+	text-align: center;
+}
+
+.thirdSection {
+	height: 300px;
+	background-color: gray;
+}
