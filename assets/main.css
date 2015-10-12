@@ -46,7 +46,7 @@ img {
 .tabs {
 	float: right;
 	margin-top: 10px;
-	font-size: 25px;
+	font-size: 20px;
 	border: 2px solid rgba(102, 102, 150, 1);
 	padding: 6px;
 	border-radius: 20px;
@@ -59,14 +59,14 @@ img {
 
 .login {
 	margin-right: 30px;
-	width: 70px;
+	width: 60px;
 	text-align: center;
 
 }
 
 .howItWorks {
 	text-align: center;
-	width: 150px;
+	width: 125px;
 	margin-right: 5px;
 }
 
